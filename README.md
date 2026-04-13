@@ -3,7 +3,7 @@
 ### Desenvolvedor Full-Stack em Formação | Node.js, JavaScript e Design Responsivo 🚀
 
 Sou um entusiasta de código, graduado em **Análise e Desenvolvimento de Sistemas (ADS)**, focado em construir soluções web eficientes e com excelente experiência do usuário. 
-Busco ativamente uma oportunidade de **Estágio Full-Stack** para aplicar e expandir meus conhecimentos em um ambiente profissional dinâmico.
+Busco ativamente uma oportunidade de **Desenvolvedor Júnior** para aplicar e expandir meus conhecimentos em um ambiente profissional dinâmico.
 
 ---
 
